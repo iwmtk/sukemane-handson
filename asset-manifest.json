@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sukemane-handson/static/css/main.073c9b0a.css",
+    "main.js": "/sukemane-handson/static/js/main.fe1ffce9.js",
+    "static/js/787.f960e5df.chunk.js": "/sukemane-handson/static/js/787.f960e5df.chunk.js",
+    "static/media/logo.svg": "/sukemane-handson/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sukemane-handson/index.html",
+    "main.073c9b0a.css.map": "/sukemane-handson/static/css/main.073c9b0a.css.map",
+    "main.fe1ffce9.js.map": "/sukemane-handson/static/js/main.fe1ffce9.js.map",
+    "787.f960e5df.chunk.js.map": "/sukemane-handson/static/js/787.f960e5df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fe1ffce9.js"
+  ]
+}
